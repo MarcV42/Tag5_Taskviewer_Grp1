@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65aa3bb1-09ea-49c1-b7e9-e2e194d9d72b" name="Changes" comment="sadfsdfsfd">
+    <list default="true" id="65aa3bb1-09ea-49c1-b7e9-e2e194d9d72b" name="Changes" comment="add pluginnn for github actions CI (mavenSurefire)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -126,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692968464940</updated>
-      <workItem from="1692968467322" duration="8569000" />
+      <workItem from="1692968467322" duration="10152000" />
     </task>
     <task id="LOCAL-00001" summary="sadfsdfsfd">
       <option name="closed" value="true" />
@@ -144,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693064573297</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add pluginnn for github actions CI (mavenSurefire)">
+      <option name="closed" value="true" />
+      <created>1693065583524</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1693065583524</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +183,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="sadfsdfsfd" />
-    <option name="LAST_COMMIT_MESSAGE" value="sadfsdfsfd" />
+    <MESSAGE value="add pluginnn for github actions CI (mavenSurefire)" />
+    <option name="LAST_COMMIT_MESSAGE" value="add pluginnn for github actions CI (mavenSurefire)" />
   </component>
 </project>
