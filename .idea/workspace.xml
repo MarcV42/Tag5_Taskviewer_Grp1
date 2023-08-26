@@ -6,8 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="65aa3bb1-09ea-49c1-b7e9-e2e194d9d72b" name="Changes" comment="sadfsdfsfd">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MainTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,6 +22,20 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "Sprudelflasch"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8a492bfd-e260-47bd-8d0e-ae57c33921a4" />
+        <option name="url" value="https://github.com/Sprudelflasch/Tag5_Taskviewer_Grp1.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectId" id="2UTfOYbsr2RAabkeksoQKEHhPP1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -113,7 +126,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692968464940</updated>
-      <workItem from="1692968467322" duration="7460000" />
+      <workItem from="1692968467322" duration="8569000" />
     </task>
     <task id="LOCAL-00001" summary="sadfsdfsfd">
       <option name="closed" value="true" />
@@ -123,7 +136,15 @@
       <option name="project" value="LOCAL" />
       <updated>1692970475138</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="sadfsdfsfd">
+      <option name="closed" value="true" />
+      <created>1693064573297</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693064573297</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
