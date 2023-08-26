@@ -14,34 +14,31 @@ public class Main {
     }
 
     public static int calculateSum(int a, int b) {
-        int sum = a + b;
+        int sum;
+        sum = a + b;
         return sum;
     }
 
-    public static int multiplicate(int a, int b) {
-        int sum = a * b;
+    public static int multiplicative(int a, int b) {
+        int sum;
+        sum = a * b;
         return sum;
     }
 
     public static String makeUppercase(String word) {
-        String uppercaseWord = word.toUpperCase();
-        return uppercaseWord;
+        return word.toUpperCase();
     }
 
     public static boolean isEvenNumber(int number) {
-        boolean isEven = true;
-        if (number % 2 == 1) {
-            isEven = false;
-        }
+        boolean isEven;
+        isEven = number % 2 != 1;
 
         return isEven;
     }
 
     public static boolean checkIfPositive(int number) {
-        boolean isPositive = false;
-        if (number > 0) {
-            isPositive = true;
-        }
+        boolean isPositive;
+        isPositive = number > 0;
 
         return isPositive;
     }

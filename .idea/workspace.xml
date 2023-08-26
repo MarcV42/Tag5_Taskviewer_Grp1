@@ -4,16 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65aa3bb1-09ea-49c1-b7e9-e2e194d9d72b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MainTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pom.xml" afterDir="false" />
+    <list default="true" id="65aa3bb1-09ea-49c1-b7e9-e2e194d9d72b" name="Changes" comment="sadfsdfsfd">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/MainTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +51,22 @@
       <recent name="$PROJECT_DIR$/src/main/java" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MainTest">
+    <configuration name="MainTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GHactions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="src.test.java" />
+      <option name="MAIN_CLASS_NAME" value="src.test.java.MainTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MainTest,calculateSum_when3And5_return8 and 4 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="GHactions" />
       <option name="TEST_OBJECT" value="pattern" />
@@ -72,8 +81,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainTest.calculateSum_when3And5_return8" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="GHactions" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="src.test.java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="src.test.java" />
+      <option name="MAIN_CLASS_NAME" value="src.test.java.MainTest" />
+      <option name="METHOD_NAME" value="calculateSum_when3And5_return8" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MainTest" />
+        <item itemvalue="JUnit.MainTest.calculateSum_when3And5_return8" />
         <item itemvalue="JUnit.MainTest,calculateSum_when3And5_return8 and 4 more" />
       </list>
     </recent_temporary>
@@ -86,8 +113,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692968464940</updated>
-      <workItem from="1692968467322" duration="1828000" />
+      <workItem from="1692968467322" duration="7460000" />
     </task>
+    <task id="LOCAL-00001" summary="sadfsdfsfd">
+      <option name="closed" value="true" />
+      <created>1692970475138</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1692970475138</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,21 +134,26 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/org/example/Main.java</url>
-          <line>32</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="sadfsdfsfd" />
+    <option name="LAST_COMMIT_MESSAGE" value="sadfsdfsfd" />
   </component>
 </project>
