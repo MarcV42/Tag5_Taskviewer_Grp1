@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="65aa3bb1-09ea-49c1-b7e9-e2e194d9d72b" name="Changes" comment="rg.junit.jupiter TEST">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="65aa3bb1-09ea-49c1-b7e9-e2e194d9d72b" name="Changes" comment="rg.junit.jupiter TEST2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pom.xml" afterDir="false" />
@@ -167,7 +166,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1692968464940</updated>
-      <workItem from="1692968467322" duration="13551000" />
+      <workItem from="1692968467322" duration="13788000" />
     </task>
     <task id="LOCAL-00001" summary="sadfsdfsfd">
       <option name="closed" value="true" />
@@ -225,7 +224,15 @@
       <option name="project" value="LOCAL" />
       <updated>1693142550641</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="rg.junit.jupiter TEST2">
+      <option name="closed" value="true" />
+      <created>1693143356345</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1693143356345</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -260,6 +267,7 @@
     <MESSAGE value="Pom changed" />
     <MESSAGE value="Maven 17 now" />
     <MESSAGE value="rg.junit.jupiter TEST" />
-    <option name="LAST_COMMIT_MESSAGE" value="rg.junit.jupiter TEST" />
+    <MESSAGE value="rg.junit.jupiter TEST2" />
+    <option name="LAST_COMMIT_MESSAGE" value="rg.junit.jupiter TEST2" />
   </component>
 </project>
